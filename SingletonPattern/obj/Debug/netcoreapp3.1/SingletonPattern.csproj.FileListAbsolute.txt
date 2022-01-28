@@ -1,0 +1,13 @@
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.exe
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.deps.json
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.json
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.dev.json
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csprojAssemblyReference.cache
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfoInputs.cache
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfo.cs
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.dll
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.pdb
+C:\Technical Document\.NET Preparation\Phase1\CustomerUI\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.genruntimeconfig.cache
