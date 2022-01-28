@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\CustomerUI.exe
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\CustomerUI.pdb
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\obj\x86\Debug\CustomerUI.exe
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\obj\x86\Debug\CustomerUI.pdb
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\MiddleLayer.dll
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\MiddleLayer.pdb
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\obj\x86\Debug\CustomerUI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\InterfaceLayer.dll
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\InterfaceLayer.pdb
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\FactoryLayer.dll
+c:\users\user\documents\visual studio 2010\Projects\CustomerUI\CustomerUI\bin\Debug\FactoryLayer.pdb
